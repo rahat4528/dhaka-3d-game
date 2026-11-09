@@ -1,11 +1,11 @@
 # Dhaka 3D Endless Runner — Cop Daddy 🚓🇧🇩
 
-[![Deploy to GitHub Pages](https://github.com/Rahat69x/dhaka-3d-game/actions/workflows/deploy.yml/badge.svg)](https://github.com/Rahat69x/dhaka-3d-game/actions/workflows/deploy.yml)
-[![Live Game](https://img.shields.io/badge/Live_Game-GitHub_Pages-success?style=flat&logo=github)](https://rahat69x.github.io/dhaka-3d-game/)
+[![Deploy to GitHub Pages](https://github.com/rahat4528/dhaka-3d-game/actions/workflows/deploy.yml/badge.svg)](https://github.com/rahat4528/dhaka-3d-game/actions/workflows/deploy.yml)
+[![Live Game](https://img.shields.io/badge/Live_Game-GitHub_Pages-success?style=flat&logo=github)](https://rahat4528.github.io/dhaka-3d-game/)
 
 A high-speed 3D endless runner game set in the metropolitan streets of **Dhaka, Bangladesh**. Built using **Three.js**, **HTML5 Canvas**, and **Vanilla Web Audio**, optimized for both desktop and mobile touch browsers.
 
-🎮 **Live Playable Link:** [https://rahat69x.github.io/dhaka-3d-game/](https://rahat69x.github.io/dhaka-3d-game/)
+🎮 **Live Playable Link:** [https://rahat4528.github.io/dhaka-3d-game/](https://rahat4528.github.io/dhaka-3d-game/)
 
 ---
 
@@ -59,7 +59,7 @@ A high-speed 3D endless runner game set in the metropolitan streets of **Dhaka, 
 ### Quick Start
 ```bash
 # 1. Clone repository
-git clone https://github.com/Rahat69x/dhaka-3d-game.git
+git clone https://github.com/rahat4528/dhaka-3d-game.git
 cd dhaka-3d-game
 
 # 2. Install dependencies
@@ -83,7 +83,7 @@ npm run preview
 - **Audio**: Web Audio API (procedural frequency synthesizers for coins, jumping, sliding, and stumble alerts)
 - **Bundler & Build Tool**: Vite 5
 - **Deployment**: GitHub Actions -> GitHub Pages (`actions/deploy-pages@v4`)
-- **Hosting**: GitHub Pages (`https://rahat69x.github.io/dhaka-3d-game/`)
+- **Hosting**: GitHub Pages (`https://rahat4528.github.io/dhaka-3d-game/`)
 
 ---
 
